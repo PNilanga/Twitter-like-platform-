@@ -1,0 +1,25 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Logs and local data
+*.log
+*.db
+*.sqlite3
+
+# Screenshots and demo files
+screenshots/
